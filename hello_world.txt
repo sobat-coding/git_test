@@ -1,0 +1,2 @@
+ini file dibuat dengan perintah touch
+dan diberi teks dengan perintah nano
